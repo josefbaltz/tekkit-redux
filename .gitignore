@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -24,3 +23,8 @@ hs_err_pid*
 
 # Twitch, Minecraft, and Modpack Specific Files
 *.curseclient
+config/
+crash-reports/
+logs/
+journeymap/
+mods/

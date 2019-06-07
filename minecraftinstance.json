@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-07T20:37:28.0217168Z",
+  "lastPlayed": "2019-06-07T20:44:29.2813027Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -43,9 +43,595 @@
   "gameTypeID": 432,
   "installPath": "C:\\Users\\Orange\\Twitch\\Minecraft\\Instances\\Tekkit Redux\\",
   "name": "Tekkit Redux",
-  "cachedScans": [],
+  "cachedScans": [
+    {
+      "folderName": "ComputerCraft1.80pr1.jar",
+      "fingerprint": 750655930,
+      "fileDateHash": 3715603163,
+      "sectionID": 8,
+      "individualFingerprints": [
+        750655930
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2612522Z",
+      "lastWriteTimeUtc": "2019-06-07T20:19:25.7992947Z",
+      "queryTimestamp": "2019-06-07T20:41:24.807316Z",
+      "fileCount": 1,
+      "fileSize": 1641429
+    },
+    {
+      "folderName": "industrialcraft-2-2.8.109-ex112.jar",
+      "fingerprint": 3247866058,
+      "fileDateHash": 1859425845,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3247866058
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.7174729Z",
+      "lastWriteTimeUtc": "2019-06-07T20:34:30.7759569Z",
+      "queryTimestamp": "2019-06-07T20:41:24.807316Z",
+      "fileCount": 1,
+      "fileSize": 8076154
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-compat.jar",
+      "fingerprint": 3118049389,
+      "fileDateHash": 2274532988,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3118049389
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.7307025Z",
+      "lastWriteTimeUtc": "2019-06-07T20:34:03.9287042Z",
+      "queryTimestamp": "2019-06-07T20:41:24.807316Z",
+      "fileCount": 1,
+      "fileSize": 62460
+    },
+    {
+      "folderName": "Bookshelf-1.12.2-2.3.581.jar",
+      "fingerprint": 1378797775,
+      "fileDateHash": 4081113363,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1378797775
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2282441Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:18.1583802Z",
+      "queryTimestamp": "2019-06-07T20:41:24.807316Z",
+      "fileCount": 1,
+      "fileSize": 264624
+    },
+    {
+      "folderName": "Mantle-1.12-1.3.3.55.jar",
+      "fingerprint": 2810798110,
+      "fileDateHash": 1535134044,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2810798110
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.0835565Z",
+      "lastWriteTimeUtc": "2019-06-07T20:37:10.8861177Z",
+      "queryTimestamp": "2019-06-07T20:41:24.807316Z",
+      "fileCount": 1,
+      "fileSize": 843486
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-world.jar",
+      "fingerprint": 71711847,
+      "fileDateHash": 4240398003,
+      "sectionID": 8,
+      "individualFingerprints": [
+        71711847
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.9307478Z",
+      "lastWriteTimeUtc": "2019-06-07T20:34:02.7484793Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 501254
+    },
+    {
+      "folderName": "Guide-API-1.12-2.1.8-63.jar",
+      "fingerprint": 1899009469,
+      "fileDateHash": 3717543269,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1899009469
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.3332682Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:56.5882564Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 169528
+    },
+    {
+      "folderName": "Netherending-Ores-1.12.2-1.3.jar",
+      "fingerprint": 3491269681,
+      "fileDateHash": 2262565946,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3491269681
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.4396368Z",
+      "lastWriteTimeUtc": "2019-06-07T20:21:11.5837789Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 189885
+    },
+    {
+      "folderName": "GameStages-1.12.2-2.0.112.jar",
+      "fingerprint": 745146102,
+      "fileDateHash": 2265176341,
+      "sectionID": 8,
+      "individualFingerprints": [
+        745146102
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.3282667Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:18.5914531Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 52703
+    },
+    {
+      "folderName": "EnderStorage-1.12.2-2.4.5.135-universal.jar",
+      "fingerprint": 2794322583,
+      "fileDateHash": 2935956996,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2794322583
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.3172645Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:08.4150785Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 223227
+    },
+    {
+      "folderName": "CompactSolars-1.12.2-5.0.18.341-universal.jar",
+      "fingerprint": 1685666679,
+      "fileDateHash": 220318580,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1685666679
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2602518Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:58.2244125Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 73134
+    },
+    {
+      "folderName": "ironchest-1.12.2-7.0.67.844.jar",
+      "fingerprint": 1538672920,
+      "fileDateHash": 320282696,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1538672920
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.8945138Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:33.02184Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 957334
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-mechanical.jar",
+      "fingerprint": 681060172,
+      "fileDateHash": 1371210660,
+      "sectionID": 8,
+      "individualFingerprints": [
+        681060172
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.9117438Z",
+      "lastWriteTimeUtc": "2019-06-07T20:33:58.869939Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 2586694
+    },
+    {
+      "folderName": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+      "fingerprint": 1154181364,
+      "fileDateHash": 951316857,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1154181364
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2552509Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:08.3150557Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 700785
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-lighting.jar",
+      "fingerprint": 2707359206,
+      "fileDateHash": 636546824,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2707359206
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.7887158Z",
+      "lastWriteTimeUtc": "2019-06-07T20:33:59.9157829Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8083164Z",
+      "fileCount": 1,
+      "fileSize": 724243
+    },
+    {
+      "folderName": "TConstruct-1.12.2-2.12.0.135.jar",
+      "fingerprint": 2741857549,
+      "fileDateHash": 1163115686,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2741857549
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.1207962Z",
+      "lastWriteTimeUtc": "2019-06-07T20:37:11.1721821Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 3997455
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-Base.jar",
+      "fingerprint": 4033631781,
+      "fileDateHash": 221800318,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4033631781
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.5666654Z",
+      "lastWriteTimeUtc": "2019-06-07T20:33:58.3828705Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 2032359
+    },
+    {
+      "folderName": "MouseTweaks-2.10-mc1.12.2.jar",
+      "fingerprint": 533666569,
+      "fileDateHash": 2563764162,
+      "sectionID": 8,
+      "individualFingerprints": [
+        533666569
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.3796232Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:34.2991912Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 75170
+    },
+    {
+      "folderName": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "fingerprint": 637705220,
+      "fileDateHash": 510404110,
+      "sectionID": 8,
+      "individualFingerprints": [
+        637705220
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.4783005Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:14.6826407Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 453778
+    },
+    {
+      "folderName": "journeymap-1.12.2-5.5.4.jar",
+      "fingerprint": 1853050331,
+      "fileDateHash": 2232018418,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1853050331
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.0625511Z",
+      "lastWriteTimeUtc": "2019-06-07T20:23:01.537149Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 1845450
+    },
+    {
+      "folderName": "energyconverters_1.12.2-1.3.0.15.jar",
+      "fingerprint": 745531112,
+      "fileDateHash": 3423186478,
+      "sectionID": 8,
+      "individualFingerprints": [
+        745531112
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.3182651Z",
+      "lastWriteTimeUtc": "2019-06-07T20:21:27.0489438Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 157088
+    },
+    {
+      "folderName": "ForgeMultipart-1.12.2-2.6.1.81-universal.jar",
+      "fingerprint": 603015884,
+      "fileDateHash": 2821970270,
+      "sectionID": 8,
+      "individualFingerprints": [
+        603015884
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.3192645Z",
+      "lastWriteTimeUtc": "2019-06-07T20:24:54.1561423Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 1304914
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.268.jar",
+      "fingerprint": 1053776633,
+      "fileDateHash": 3090618755,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1053776633
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.049549Z",
+      "lastWriteTimeUtc": "2019-06-07T20:21:01.0034414Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 647239
+    },
+    {
+      "folderName": "MrTJPCore-1.12.2-2.1.3.35-universal.jar",
+      "fingerprint": 915750787,
+      "fileDateHash": 1386852460,
+      "sectionID": 8,
+      "individualFingerprints": [
+        915750787
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.4296345Z",
+      "lastWriteTimeUtc": "2019-06-07T20:33:58.2495639Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8093169Z",
+      "fileCount": 1,
+      "fileSize": 799809
+    },
+    {
+      "folderName": "WR-CBE-1.12.2-2.3.1.30-universal.jar",
+      "fingerprint": 290554388,
+      "fileDateHash": 3241587589,
+      "sectionID": 8,
+      "individualFingerprints": [
+        290554388
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.311838Z",
+      "lastWriteTimeUtc": "2019-06-07T20:24:54.3649093Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 364080
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.18.jar",
+      "fingerprint": 3944483312,
+      "fileDateHash": 3075967539,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3944483312
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2722541Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:18.8675166Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 1363935
+    },
+    {
+      "folderName": "Wawla-1.12.2-2.5.273.jar",
+      "fingerprint": 2167748405,
+      "fileDateHash": 350012255,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2167748405
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.2398221Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:21.0586337Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 94171
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 2356865333,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.7594853Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:21.3183825Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 263258
+    },
+    {
+      "folderName": "EnderCore-1.12.2-0.5.57.jar",
+      "fingerprint": 2833802509,
+      "fileDateHash": 906856082,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2833802509
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2782554Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:56.214171Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 638350
+    },
+    {
+      "folderName": "EnderIO-1.12.2-5.0.44.jar",
+      "fingerprint": 3142970230,
+      "fileDateHash": 3130947965,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3142970230
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2822565Z",
+      "lastWriteTimeUtc": "2019-06-07T20:20:56.4402222Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 7319402
+    },
+    {
+      "folderName": "ChickenChunks-1.12.2-2.4.1.73-universal.jar",
+      "fingerprint": 2126096054,
+      "fileDateHash": 1432090380,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2126096054
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2552509Z",
+      "lastWriteTimeUtc": "2019-06-07T20:36:46.9906636Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 134368
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-integration.jar",
+      "fingerprint": 2448860057,
+      "fileDateHash": 598598743,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2448860057
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.7657106Z",
+      "lastWriteTimeUtc": "2019-06-07T20:33:59.3669845Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 3921871
+    },
+    {
+      "folderName": "buildcraft-all-7.99.24.1.jar",
+      "fingerprint": 2704565981,
+      "fileDateHash": 85182769,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2704565981
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2292445Z",
+      "lastWriteTimeUtc": "2019-06-07T20:16:20.5594873Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 4743846
+    },
+    {
+      "folderName": "ProjectE-1.12.2-PE1.4.1.jar",
+      "fingerprint": 3710434117,
+      "fileDateHash": 565323703,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3710434117
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.5446607Z",
+      "lastWriteTimeUtc": "2019-06-07T20:19:58.2068238Z",
+      "queryTimestamp": "2019-06-07T20:41:24.8103173Z",
+      "fileCount": 1,
+      "fileSize": 1812973
+    },
+    {
+      "folderName": "WailaStages-1.12.2-2.0.23.jar",
+      "fingerprint": 2078917584,
+      "fileDateHash": 144578157,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2078917584
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.2068157Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:19.049557Z",
+      "queryTimestamp": "2019-06-07T20:41:24.811317Z",
+      "fileCount": 1,
+      "fileSize": 18422
+    },
+    {
+      "folderName": "additionalpipes-6.0.0.8.jar",
+      "fingerprint": 4193316802,
+      "fileDateHash": 1996104670,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4193316802
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:22.2252445Z",
+      "lastWriteTimeUtc": "2019-06-07T20:17:22.1600905Z",
+      "queryTimestamp": "2019-06-07T20:41:24.811317Z",
+      "fileCount": 1,
+      "fileSize": 227670
+    },
+    {
+      "folderName": "WailaHarvestability-mc1.12-1.1.12.jar",
+      "fingerprint": 993638690,
+      "fileDateHash": 2558246144,
+      "sectionID": 8,
+      "individualFingerprints": [
+        993638690
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.1417988Z",
+      "lastWriteTimeUtc": "2019-06-07T20:35:15.0007133Z",
+      "queryTimestamp": "2019-06-07T20:41:24.811317Z",
+      "fileCount": 1,
+      "fileSize": 31462
+    },
+    {
+      "folderName": "railcraft-12.0.0.jar",
+      "fingerprint": 4261977453,
+      "fileDateHash": 2678918529,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4261977453
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:24.0817859Z",
+      "lastWriteTimeUtc": "2019-06-07T20:21:46.0586863Z",
+      "queryTimestamp": "2019-06-07T20:41:24.811317Z",
+      "fileCount": 1,
+      "fileSize": 5541089
+    },
+    {
+      "folderName": "ProjectRed-1.12.2-4.9.1.92-fabrication.jar",
+      "fingerprint": 4030399115,
+      "fileDateHash": 3583114869,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4030399115
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T20:41:23.7477069Z",
+      "lastWriteTimeUtc": "2019-06-07T20:34:04.6458511Z",
+      "queryTimestamp": "2019-06-07T20:41:24.811317Z",
+      "fileCount": 1,
+      "fileSize": 1886213
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2019-06-07T20:41:25.0803784Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -841,84 +1427,6 @@
       "dateInstalled": "2019-06-07T20:16:20.5804921Z",
       "dateUpdated": "2019-06-07T20:16:20.5904939Z",
       "dateLastUpdateAttempted": "2019-06-07T20:16:20.5904939Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 59882,
-      "gameInstanceID": "91565348-8998-4b7b-b208-32398de227e9",
-      "installedFile": {
-        "id": 2581227,
-        "displayName": "MFFS 1.12 4.0.1",
-        "fileName": "MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
-        "fileDate": "2018-07-10T00:02:13.233Z",
-        "fileLength": 507200,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2581/227/MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 64578,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 228832,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1870036645,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1897134669,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1753663918,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3388034476,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3035502671,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar"
-      },
-      "dateInstalled": "2019-06-07T20:20:57.0863687Z",
-      "dateUpdated": "2019-06-07T20:20:57.0883693Z",
-      "dateLastUpdateAttempted": "2019-06-07T20:20:57.0883693Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
